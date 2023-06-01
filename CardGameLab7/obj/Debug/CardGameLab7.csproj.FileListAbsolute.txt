@@ -1,0 +1,7 @@
+E:\SecondSemester\CardGameLab7\CardGameLab7\bin\Debug\CardGameLab7.exe.config
+E:\SecondSemester\CardGameLab7\CardGameLab7\bin\Debug\CardGameLab7.exe
+E:\SecondSemester\CardGameLab7\CardGameLab7\bin\Debug\CardGameLab7.pdb
+E:\SecondSemester\CardGameLab7\CardGameLab7\obj\Debug\CardGameLab7.csproj.AssemblyReference.cache
+E:\SecondSemester\CardGameLab7\CardGameLab7\obj\Debug\CardGameLab7.csproj.CoreCompileInputs.cache
+E:\SecondSemester\CardGameLab7\CardGameLab7\obj\Debug\CardGameLab7.exe
+E:\SecondSemester\CardGameLab7\CardGameLab7\obj\Debug\CardGameLab7.pdb
